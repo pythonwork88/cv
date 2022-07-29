@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+a {
+  color:  #11999E;
+  text-decoration: none;
+  font-weight: bolder;
+
+}
+p {
+  color: #40514E;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 562%;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-weight: bolder;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:  #11999E;
+  font-weight: bolder;
+}
+
+.top-container {
+  position: relative;
+  background-color: #EAF6F6;
+  padding-top: 100px;
+
+
+
+}
+
+
+.middle-container {
+  padding: 100px auto 100px auto;
+  margin: 100px auto 100px auto;
+
+
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: #66BFBF;
+  height: 204px;
+  line-height: 2;
+
+
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 370px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+}
+
+span {
+  text-decoration: underline;
+}
+.extra {
+  font-family: "Sacramento", cursive;
+  color: #66BFBF;
+  padding-top: 50px;
+
+}
+
+.picture {
+  height: 200px
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.programm-picture {
+  float: left;
+  width: 25%;
+}
+
+.virus-picture {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.footer-link {
+  margin: auto 30px auto 30px;
+
+}
+
+.btn {
+  border-style: solid;
+  color: #EAF6F6;
+  background-color: #66BFBF;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+hr {
+  width: 10px;
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  color: #EAF6F6;
+  padding: 50px;
+  margin-top: 150px;
+
+}
+.signatur {
+  font-family: "Sacramento", cursive;
+  color: #EAF6F6;
+  padding-top: 50px;
+}
